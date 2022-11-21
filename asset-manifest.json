@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/360-react-to-gh/static/css/main.1bc4666b.css",
+    "main.js": "/360-react-to-gh/static/js/main.51da80f2.js",
+    "static/media/st_block_row_settings_135705_bg_XwhaP5oS.jpg": "/360-react-to-gh/static/media/st_block_row_settings_135705_bg_XwhaP5oS.3fa5995a862c1a2ebcaa.jpg",
+    "static/media/ct_block_76230_image.jpg": "/360-react-to-gh/static/media/ct_block_76230_image.f17d49c57454f172d0f4.jpg",
+    "index.html": "/360-react-to-gh/index.html",
+    "main.1bc4666b.css.map": "/360-react-to-gh/static/css/main.1bc4666b.css.map",
+    "main.51da80f2.js.map": "/360-react-to-gh/static/js/main.51da80f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bc4666b.css",
+    "static/js/main.51da80f2.js"
+  ]
+}
